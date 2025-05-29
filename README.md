@@ -1,6 +1,6 @@
 <h1 align="center">Nicolas Pereira 😎</h1>
 <p align="center">
-Analista de Sistemas, Desenvolvedor & Analista de Dados
+<br> Analista de Sistemas, Desenvolvedor & Analista de Dados </br>
   <i>Trabalho com tecnologia para resolver problemas reais.</i>
 </p>
 
