@@ -4,10 +4,6 @@
   <i>Trabalho com tecnologia para resolver problemas reais.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicolaspereira-dev&label=Profile+Views" alt="profile views" />
-</p>
-
 ---
 
 ## 💼 Sobre mim
