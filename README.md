@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Nicolas Pereira</h1>
+<h1 align="center">Nicolas Pereira 😎</h1>
 <p align="center">
   <b>22 anos</b> | Analista de Sistemas, Desenvolvedor Full Stack & Analista de Dados <br>
   <i>Trabalho com tecnologia para resolver problemas reais.</i>
