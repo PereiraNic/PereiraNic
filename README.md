@@ -13,40 +13,34 @@
 ## 💼 Sobre mim
 
 Sou apaixonado por tecnologia, soluções eficientes e inovação prática.  
-Atualmente atuo como **Suporte Técnico na Simpress (an HP Company)**, com forte atuação em sistemas, automações e análise de dados.
 
-> Apesar da pouca idade, já acumulo **experiência sólida com desenvolvimento, análise e suporte**, sempre focado em entregar **valor com responsabilidade técnica**.
+>  **experiência em manutenção e suporte a Hardware e Redes. Suporte técnico e análise de dados**, sempre focado em entregar **valor com responsabilidade técnica**.
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
 - **Linguagens & Frameworks**:  
-  `JavaScript` | `Node.js` | `React` | `Python` | `SQL` | `HTML/CSS`
+  `Java` | `SpringBoot` | `HTML/CSS`
 
 - **Banco de Dados**:  
-  `MySQL`, `PostgreSQL`, `MongoDB`
+  `PostgreSQL`
 
 - **Ferramentas & Plataformas**:  
-  `Git`, `n8n`, `Power BI`, `VS Code`, `Notion`, `Docker (básico)`
-
-- **Integrações & APIs**:  
-  WhatsApp Business, APIs REST, GPT/OpenAI, automações com n8n
-
+  `Git`, `VS Code`
+  
 ---
 
 ## 📈 O que estou aprendendo agora
 
 - Desenvolvimento de soluções SaaS
-- Integrações avançadas com IA (ChatGPT APIs)
+- Integrações com IA (ChatGPT APIs)
 - Infraestrutura e automação com `n8n` e `WPPConnect`
-- Melhoria de performance em sistemas corporativos
 
 ---
 
 ## 🚀 Projetos & Iniciativas
 
-🟢 Em desenvolvimento: **App de comunicação offline para emergências familiares**  
 🔧 Estudando: **Automatização de atendimento via WhatsApp usando n8n + GPT**
 
 > Tenho buscado projetos com impacto social ou que resolvam **dores reais**, mesmo sem internet ou grandes estruturas.
@@ -55,15 +49,11 @@ Atualmente atuo como **Suporte Técnico na Simpress (an HP Company)**, com forte
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
-- 📧 Email: nicolas@exemplo.com  
 - 💡 Portfólio (em breve)
 
 ---
 
 ## 🙏 Obrigado por visitar!
-
-Se você curte tecnologia com propósito, integração com IA e automações inteligentes, **vamos trocar ideia!**
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
