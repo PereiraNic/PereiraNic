@@ -31,21 +31,18 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
 
 - Desenvolvimento de soluções SaaS
 - Integrações com IA (ChatGPT APIs)
-- Infraestrutura e automação com `n8n` e `WPPConnect`
 
 ---
 
 ## 🚀 Projetos & Iniciativas
 
-🔧 Estudando: **Automatização de atendimento via WhatsApp usando n8n + GPT**
-
-> Tenho buscado projetos com impacto social ou que resolvam **dores reais**.
+🔧 Estudando: (Em breve)
 
 ---
 
-## 📫 Onde me encontrar
+## 💡 Portfólio
 
-- 💡 Portfólio (em breve)
+-  (em breve)
 
 ---
 
