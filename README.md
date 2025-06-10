@@ -1,7 +1,7 @@
 <h1 align="center">Nicolas Pereira 😎</h1>
 <p align="center">
 <br> Analista de Sistemas, Desenvolvedor & Analista de Dados </br>
-  <i>Trabalho com tecnologia para resolver problemas reais.</i>
+  <i>Estudo e trabalho com tecnologia para resolver problemas reais.</i>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
   `PostgreSQL`
 
 - **Ferramentas & Plataformas**:  
-  `Git`, `VS Code`
+  `VS Code` , `Cursor` , `Git` , `GitHub` 
   
 ---
 
@@ -39,7 +39,7 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
 
 🔧 Estudando: **Automatização de atendimento via WhatsApp usando n8n + GPT**
 
-> Tenho buscado projetos com impacto social ou que resolvam **dores reais**, mesmo sem internet ou grandes estruturas.
+> Tenho buscado projetos com impacto social ou que resolvam **dores reais**.
 
 ---
 
