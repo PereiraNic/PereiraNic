@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
 ## 🧠 Habilidades Técnicas
 
 - **Linguagens & Frameworks**:  
-  `Java` | `SpringBoot` | `HTML/CSS`
+  `HTML/CSS` | `JavaScript` | `Java` | `SpringBoot` | 
 
 - **Banco de Dados**:  
   `PostgreSQL`
