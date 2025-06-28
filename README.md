@@ -1,4 +1,4 @@
-<h1 align="center">Nicolas Pereira 😎</h1>
+<h1 align="center">Nicolas 😎</h1>
 <p align="center">
 <br> Analista de Sistemas, Desenvolvedor & Analista de Dados </br>
   <i>Estudo e trabalho com tecnologia para resolver problemas reais.</i>
@@ -17,13 +17,13 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
 ## 🧠 Habilidades Técnicas
 
 - **Linguagens & Frameworks**:  
-  `HTML/CSS` | `JavaScript` | `Java` | `SpringBoot` | 
+  `HTML/CSS` | `JavaScript` | `Python` | `Django` 
 
 - **Banco de Dados**:  
   `PostgreSQL`
 
 - **Ferramentas & Plataformas**:  
-  `VS Code` , `Cursor` , `Git` , `GitHub` 
+  `VS Code` , `Git` , `GitHub` 
   
 ---
 
@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
 
 ## 🚀 Projetos & Iniciativas
 
-🔧 Estudando: (Em breve)
+🔧 Estudando: Python e Django em um projeto de CRM
 
 ---
 
