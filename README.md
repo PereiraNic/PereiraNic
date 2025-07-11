@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia, soluções eficientes e inovação prática.
   `HTML/CSS` | `JavaScript` | `Python` | `Django` 
 
 - **Banco de Dados**:  
-  `PostgreSQL`
+  `SQLite` | `PostgreSQL`
 
 - **Ferramentas & Plataformas**:  
   `VS Code` , `Git` , `GitHub` 
