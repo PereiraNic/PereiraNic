@@ -1,5 +1,3 @@
----
-
 ## 💼 Sobre mim
 
 Sou apaixonado por tecnologia! 
