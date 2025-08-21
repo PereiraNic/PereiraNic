@@ -6,8 +6,6 @@ Sou apaixonado por tecnologia!
 Tenho curiosidade e busco entender como funcionam as coisas, os Jogos, Dispositivos, Sistemas! 
 E procuro aplicar a Criatividade para inovar!
 
->  **experiência em manutenção e suporte a Hardware e Redes. Suporte técnico e gerenciamento de chamados.**
-
 ---
 
 ## 🧠 Habilidades Técnicas
@@ -25,7 +23,7 @@ E procuro aplicar a Criatividade para inovar!
 
 ## 📈 O que estou aprendendo agora
 
-- Desenvolvimento de soluções SaaS
+- Desenvolvimento Web com Django
 - Integrações com IA (ChatGPT APIs)
 
 ---
