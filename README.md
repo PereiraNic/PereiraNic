@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia!
 Tenho curiosidade e busco entender como funcionam as coisas, os Jogos, Dispositivos, Sistemas! 
 E procuro aplicar a Criatividade para inovar!
 
->  **experiência em manutenção e suporte a Hardware e Redes. Suporte técnico e análise de dados**, sempre focado em entregar **valor com responsabilidade técnica**.
+>  **experiência em manutenção e suporte a Hardware e Redes. Suporte técnico e gerenciamento de chamados.**
 
 ---
 
