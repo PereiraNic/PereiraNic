@@ -3,7 +3,7 @@
 ## 💼 Sobre mim
 
 Sou apaixonado por tecnologia! 
-Tenho curiosidade e busco entender como funcionam as coisas, os Jogos, Dispositivos, Sistemas! 
+Busco entender como funcionam as coisas. Os Jogos, Sistemas, Dispositivos! 
 E procuro aplicar a Criatividade para inovar!
 
 ---
