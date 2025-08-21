@@ -1,14 +1,10 @@
-<h1 align="center">Nicolas 😎</h1>
-<p align="center">
-<br> Analista de Sistemas, Desenvolvedor & Analista de Dados </br>
-  <i>Estudo e trabalho com tecnologia para resolver problemas reais.</i>
-</p>
-
 ---
 
 ## 💼 Sobre mim
 
-Sou apaixonado por tecnologia, soluções eficientes e inovação prática.  
+Sou apaixonado por tecnologia! 
+Tenho curiosidade e busco entender como funcionam as coisas, os Jogos, Dispositivos, Sistemas! 
+E procuro aplicar a Criatividade para inovar!
 
 >  **experiência em manutenção e suporte a Hardware e Redes. Suporte técnico e análise de dados**, sempre focado em entregar **valor com responsabilidade técnica**.
 
