@@ -1,8 +1,9 @@
 ## 💼 Sobre mim
 
-Sou apaixonado por tecnologia! 
-Busco entender como funcionam as coisas. Os Jogos, Sistemas, Dispositivos! 
-E procuro aplicar a Criatividade para inovar!
+Formado em Análise e Desenvolvimento de Sistemas.
+Apaixonado por inovação e tecnologia.
+Atualmente trabalho na área de Suporte.
+Buscando novas oportunidades na área de tecnologia.
 
 ---
 
